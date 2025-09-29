@@ -1,4 +1,5 @@
 Algoritmo REP01
+// AlvaroAlfredo 00589547
 	
 	Definir Dividendo, Divisor  Como Enteros;
 	Definir Ch Como Caracter;
@@ -19,3 +20,4 @@ Algoritmo REP01
 	Hasta Que Mayusculas(Ch) = "N"
 	
 FinAlgoritmo
+
