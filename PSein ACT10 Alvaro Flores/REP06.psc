@@ -1,4 +1,5 @@
 Algoritmo REP06
+// AlvaroAlfredo 00589547
 	
 	Definir Num Como Entero;
 	
@@ -8,3 +9,4 @@ Algoritmo REP06
 	Hasta Que Num > 100 
 	
 FinAlgoritmo
+
