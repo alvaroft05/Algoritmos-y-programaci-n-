@@ -1,4 +1,5 @@
 Algoritmo DO2
+//AlvaroFlores 00589547
 	Definir coste, valorRescate Como Real
 	Definir vidaUtil, anio Como Entero
 	Definir valorActual, depreciacion, acumulada Como Real
@@ -8,7 +9,7 @@ Algoritmo DO2
 	Leer vidaUtil
 	Escribir 'Ingresa el valor rescate: $'
 	Leer valorRescate
-	Escribir 'Ingresa el año: '
+	Escribir 'Ingresa el aÃ±o: '
 	Leer anio
 	valorActual <- coste
 	depreciacion <- (coste-valorRescate)/vidaUtil
@@ -21,3 +22,4 @@ Algoritmo DO2
 	Escribir 'Valor acumulado: $', acumulada
 	Escribir 'Valor actual: $', valorActual
 FinAlgoritmo
+
