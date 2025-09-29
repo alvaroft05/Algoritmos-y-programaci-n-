@@ -1,12 +1,12 @@
 Algoritmo DO9
-	
+	//AlvaroFlores 00589547
 	Definir a, b, c, mayor Como Entero;
 	
-	Escribir "Ingrese el primer número: ";
+	Escribir "Ingrese el primer nÃºmero: ";
 	Leer a
-	Escribir "Ingrese el segundo número: ";
+	Escribir "Ingrese el segundo nÃºmero: ";
 	Leer b
-	Escribir "Ingrese el tercer número: ";
+	Escribir "Ingrese el tercer nÃºmero: ";
 	Leer c
 	
 	mayor <- a
@@ -20,3 +20,4 @@ Algoritmo DO9
 	Escribir "El mayor es: ", mayor;
 	
 FinAlgoritmo
+
