@@ -1,4 +1,5 @@
 Algoritmo REP05
+// AlvaroAlfredo 00589547
 	
 	Definir N, Suma Como Enteros;
 	
@@ -11,3 +12,4 @@ Algoritmo REP05
 	Escribir "La suma de los numeros comprendidos entre 1 y 10 es: ", Suma;
 	
 FinAlgoritmo
+
