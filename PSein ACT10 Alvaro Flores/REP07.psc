@@ -1,5 +1,5 @@
 Algoritmo REP07
-	
+	// AlvaroAlfredo 00589547
 	Definir N, Suma Como Real;
 	Definir I Como Entero;
 	
@@ -16,3 +16,4 @@ Algoritmo REP07
 	Escribir "La suma de los 5 numeros es " Suma;
 	Escribir "El Promedio de los 5 numeros es: ", Suma / 5;	
 FinAlgoritmo
+
