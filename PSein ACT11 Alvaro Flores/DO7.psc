@@ -1,11 +1,12 @@
 Algoritmo DO7
+//AlvaroFlores 00589547
 	Definir a, b, c Como Entero
 	
-	Escribir "Ingrese el primer número: ";
+	Escribir "Ingrese el primer nÃºmero: ";
 	Leer a
-	Escribir "Ingrese el segundo número: ";
+	Escribir "Ingrese el segundo nÃºmero: ";
 	Leer b
-	Escribir "Ingrese el tercer número: ";
+	Escribir "Ingrese el tercer nÃºmero: ";
 	Leer c
 	
 	Si (a + b = c) O (a + c = b) O (b + c = a) Entonces
@@ -15,3 +16,4 @@ Algoritmo DO7
 	FinSi
 	
 FinAlgoritmo
+
