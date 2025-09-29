@@ -1,5 +1,5 @@
 Algoritmo CON5
-	
+	// AlvaroAlfredo 00589547
 	Definir Numero Como Entero;
 	Leer Numero;
 	
@@ -11,3 +11,4 @@ Algoritmo CON5
 	
 	
 FinAlgoritmo
+
