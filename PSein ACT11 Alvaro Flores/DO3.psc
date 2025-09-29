@@ -1,4 +1,5 @@
 Algoritmo DO3
+//AlvaroFlores 00589547
 	Definir n, i, producto Como Entero
 	producto <- 1
 	Escribir 'Ingrese el valor de n: '
@@ -6,5 +7,6 @@ Algoritmo DO3
 	Para i<-1 Hasta n Con Paso 1 Hacer
 		producto <- producto*i
 	FinPara
-	Escribir 'El producto de los ', n, ' primeros números naturales es: ', producto
+	Escribir 'El producto de los ', n, ' primeros nÃºmeros naturales es: ', producto
 FinAlgoritmo
+
