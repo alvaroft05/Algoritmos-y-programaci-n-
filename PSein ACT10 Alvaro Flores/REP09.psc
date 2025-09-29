@@ -1,5 +1,5 @@
 Algoritmo REP09
-	
+	// AlvaroAlfredo 00589547
 	Definir N, Suma Como Reales;
 	Definir I Como Entero;
 	
@@ -15,3 +15,4 @@ Algoritmo REP09
 	Escribir "El resultado de la suma de los numeros negativos es: ", Suma;
 	
 FinAlgoritmo
+
