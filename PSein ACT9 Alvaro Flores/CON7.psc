@@ -1,5 +1,5 @@
 Algoritmo CON7
-	
+	// AlvaroAlfredo 00589547
 	Definir Mes Como Entero
 	
 	Escribir "Introduzca un numero para ver a que mes corresponde"
@@ -23,3 +23,4 @@ Algoritmo CON7
 	FinSegun
 	
 FinAlgoritmo
+
