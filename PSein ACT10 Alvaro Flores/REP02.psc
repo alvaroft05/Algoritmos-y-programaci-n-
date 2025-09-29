@@ -1,4 +1,5 @@
 Algoritmo REP02
+// AlvaroAlfredo 00589547
 	Definir Respuesta Como Caracter
 	
 	Repetir 
@@ -18,3 +19,4 @@ Algoritmo REP02
 	Hasta Que Mayusculas(Respuesta) = "N"
 	
 FinAlgoritmo
+
