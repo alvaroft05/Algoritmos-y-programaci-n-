@@ -1,4 +1,5 @@
 Algoritmo SEC10
+// AlvaroAlfredo 00589547
 	Definir A, B, C Como Real
 	Escribir ' La formula utilizada sera (A+7*C)/(B+2-A)+2*B'
 	Escribir 'Introduzca el valor de A: '
@@ -9,3 +10,4 @@ Algoritmo SEC10
 	Leer C
 	Escribir 'El resultado de la formula es: ', (A+7*C)/(B+2-A)+2*B
 FinAlgoritmo
+
