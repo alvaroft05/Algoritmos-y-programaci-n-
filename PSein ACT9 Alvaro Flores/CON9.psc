@@ -1,4 +1,5 @@
 Algoritmo CON9
+// AlvaroAlfredo 00589547
 	Definir N1, N2, T Como Enteros;
 	
 	Escribir "Introducir numero 1"
@@ -22,3 +23,4 @@ Algoritmo CON9
 	FinSi
 	
 FinAlgoritmo
+
