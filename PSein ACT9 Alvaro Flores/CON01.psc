@@ -1,5 +1,5 @@
 Algoritmo CON01
-	
+	// AlvaroAlfredo 00589547
 	Definir Numero Como Entero;
 	
 	Escribir "Introduzca un numero entero ";
@@ -14,3 +14,4 @@ Algoritmo CON01
 	FinSi
 	
 FinAlgoritmo
+
