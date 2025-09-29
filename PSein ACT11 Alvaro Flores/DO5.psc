@@ -1,4 +1,5 @@
 Algoritmo DO5
+//AlvaroFlores 00589547
 	Definir horas, tarifa, salario Como Real
 	
 	Escribir "Ingrese las horas semanales trabajadas: "
@@ -14,3 +15,4 @@ Algoritmo DO5
 	Escribir "El salario semanal es: ", salario
 	Escribir "El salario mensual es: ", salario * 4
 FinAlgoritmo
+
