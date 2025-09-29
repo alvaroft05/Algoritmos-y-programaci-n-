@@ -1,5 +1,5 @@
 Algoritmo CON6
-	
+	// AlvaroAlfredo 00589547
 	Definir Dia Como Entero;
 	
 	Escribir "Introduzca un numero para ver con que dia corresponde"
@@ -18,3 +18,4 @@ Algoritmo CON6
 	FinSegun
 	
 FinAlgoritmo
+
