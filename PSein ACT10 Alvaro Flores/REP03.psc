@@ -1,4 +1,5 @@
 Algoritmo REP03
+// AlvaroAlfredo 00589547
 	
 	Definir N Como Entero;
 	
@@ -11,3 +12,4 @@ Algoritmo REP03
 	FinMientras
 	
 FinAlgoritmo
+
