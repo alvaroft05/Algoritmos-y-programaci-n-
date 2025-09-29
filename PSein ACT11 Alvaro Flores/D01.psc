@@ -1,4 +1,5 @@
 Algoritmo D01
+//AlvaroFlores 00589547
 	Definir nombre Como Cadena
 	Definir horas Como Entero
 	Definir precio, bruto, tasa, neto Como Real
@@ -12,3 +13,4 @@ Algoritmo D01
 	Escribir 'Impuesto 25%: $', tasas
 	Escribir 'salario neto $', neto
 FinAlgoritmo
+
