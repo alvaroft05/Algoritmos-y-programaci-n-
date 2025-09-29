@@ -1,4 +1,5 @@
 Algoritmo SEC03
+// AlvaroAlfredo 00589547
 	Definir A, B Como Entero
 	Definir S, R, D, M Como Entero
 	Escribir ' Introduzca un numero entero: '
@@ -12,5 +13,6 @@ Algoritmo SEC03
 	Escribir 'La suma es: ', S
 	Escribir 'La resta es: ', R
 	Escribir 'La multiplicacion es: ', M
-	Escribir 'La división es; ', D
+	Escribir 'La divisiÃ³n es; ', D
 FinAlgoritmo
+
