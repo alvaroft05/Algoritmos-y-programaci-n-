@@ -1,4 +1,5 @@
 Algoritmo SEC05
+// AlvaroAlfredo 00589547
 	Definir Largo, Ancho Como Real
 	Escribir 'Introduzca el largo: '
 	Leer Largo
@@ -6,3 +7,4 @@ Algoritmo SEC05
 	Leer Ancho
 	Escribir 'El area del rectangulo es: ', Largo*Ancho
 FinAlgoritmo
+
