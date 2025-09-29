@@ -1,5 +1,5 @@
 Algoritmo CON4
-	
+	// AlvaroAlfredo 00589547
 	Definir Numero Como Entero;
 	
 	Escribir "Inserte el numero";
@@ -11,3 +11,4 @@ Algoritmo CON4
 		Escribir "El numero es impar"
 	FinSi
 FinAlgoritmo
+
