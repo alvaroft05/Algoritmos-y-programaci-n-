@@ -1,5 +1,5 @@
 Algoritmo CON02
-	
+	// AlvaroAlfredo 00589547
 	Definir N1, N2, N3 Como Enteros;
 	
 	Escribir "Introduzca numero";
@@ -19,3 +19,4 @@ Algoritmo CON02
 	FinSi
 	
 FinAlgoritmo
+
