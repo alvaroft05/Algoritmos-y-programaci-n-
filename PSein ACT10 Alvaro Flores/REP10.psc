@@ -1,5 +1,5 @@
 Algoritmo REP10
-	
+	// AlvaroAlfredo 00589547
 	Definir Suma Como Real;
 	Definir i Como Entero;
 	
@@ -13,3 +13,4 @@ Algoritmo REP10
 	
 	
 FinAlgoritmo
+
