@@ -1,5 +1,5 @@
 Algoritmo REP08
-	
+	// AlvaroAlfredo 00589547
 	Definir N, Suma Como Enteros;
 	
 	Suma <- 0
@@ -11,3 +11,4 @@ Algoritmo REP08
 	Escribir "La suma de los cuadrados de los 100 primeros numeros es: ", Suma
 
 FinAlgoritmo
+
