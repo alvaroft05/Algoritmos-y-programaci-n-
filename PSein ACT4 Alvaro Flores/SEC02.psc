@@ -1,5 +1,7 @@
 Algoritmo SEC02
-	Definir A, B, C, D, E, F, G Como Entero
+// AlvaroAlfredo 00589547
+
+    Definir A, B, C, D, E, F, G Como Entero
 	A <- 40
 	B <- 10
 	C <- 5
@@ -9,3 +11,4 @@ Algoritmo SEC02
 	G <- A+B+C+D+E-F
 	Escribir G
 FinAlgoritmo
+
