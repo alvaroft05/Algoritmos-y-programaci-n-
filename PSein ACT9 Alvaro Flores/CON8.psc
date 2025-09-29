@@ -1,5 +1,5 @@
 Algoritmo CON8
-	
+	// AlvaroAlfredo 00589547
 	Definir Calificacion Como Entero
 	
 	Escribir "Introduzca una Calificacion del 1 al 5"
@@ -16,3 +16,4 @@ Algoritmo CON8
 	FinSegun
 	
 FinAlgoritmo
+
