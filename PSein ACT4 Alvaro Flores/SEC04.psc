@@ -1,4 +1,5 @@
 Algoritmo SEC04
+// AlvaroAlfredo 00589547
 	Definir A, B Como Real
 	Definir f, g, c, d, e Como Real
 	Escribir ' Introduzca un numero '
@@ -16,3 +17,4 @@ Algoritmo SEC04
 	Escribir ' La division es; ', d
 	Escribir ' La suma total es ', e
 FinAlgoritmo
+
