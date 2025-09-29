@@ -1,5 +1,5 @@
 Algoritmo CON10
-	
+	// AlvaroAlfredo 00589547
 	Definir Edad Como Entero;
 	Definir Genero Como Caracter;
 	
@@ -20,3 +20,4 @@ Algoritmo CON10
 		Escribir "Requisitos no cumplidos"
 	FinSi
 FinAlgoritmo
+
